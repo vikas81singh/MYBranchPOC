@@ -4,7 +4,7 @@
  * @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
  * @Group              : 
  * @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
- * @Last Modified On   : 6/12/2020, 5:10:43 PM
+ * @Last Modified On   : 6/12/2020, 5:57:53 PM
  * @Modification Log   : 
  * Ver       Date            Author      		    Modification
  * 1.0    6/12/2020   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
@@ -21,6 +21,13 @@ public with sharing class movetoMasterByPR {
                 // Takes a Fahrenheit temperature and returns the Celsius equivalent.
      public static Decimal FahrenheitToCelsius1(Decimal fh) {
         Decimal cs = (fh - 32) * 5/9;
+        system.debug('Test');
+system.debug('Test');
+system.debug('Test');system.debug('Test');
+system.debug('Test');
+system.debug('Test');system.debug('Test');
+system.debug('Test');
+system.debug('Test');
         return cs.setScale(2);
      }
             // Takes a Fahrenheit temperature and returns the Celsius equivalent.

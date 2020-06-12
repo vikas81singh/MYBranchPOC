@@ -1,18 +1,17 @@
 /**
- * @File Name          : myclass.cls
+ * @File Name          : NewDevoffClassforGit.cls
  * @Description        : 
  * @Author             : ChangeMeIn@UserSettingsUnder.SFDoc
  * @Group              : 
  * @Last Modified By   : ChangeMeIn@UserSettingsUnder.SFDoc
- * @Last Modified On   : 6/12/2020, 5:57:44 PM
- * @Last Modified On   : 6/12/2020, 5:57:44 PM
+ * @Last Modified On   : 6/12/2020, 5:58:24 PM
  * @Modification Log   : 
  * Ver       Date            Author      		    Modification
- * 1.0    5/29/2020   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
+ * 1.0    6/12/2020   ChangeMeIn@UserSettingsUnder.SFDoc     Initial Version
 **/
-public with sharing class myclass {
-    public myclass() {
-system.debug('Test223232323232323');
+public with sharing class NewDevoffClassforGit {
+    public NewDevoffClassforGit() {
+        system.debug('Test');
 system.debug('Test');
 system.debug('Test');
 system.debug('Test');
@@ -20,13 +19,12 @@ system.debug('Test');
 system.debug('Test');
 system.debug('Test');
 system.debug('Test');
+system.debug('Test');system.debug('Test');
 system.debug('Test');
 system.debug('Test');
 system.debug('Test');
 system.debug('Test');
 system.debug('Test');
-system.debug('Test');
-
 
     }
 }
